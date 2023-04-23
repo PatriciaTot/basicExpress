@@ -1,0 +1,2 @@
+ceci est le fichier test.txt
+ceci est un exemple de fichier txt
